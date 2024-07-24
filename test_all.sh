@@ -1,0 +1,3 @@
+prove  `find ./ -name "*.pl"`
+find ./ -name "*.py" -exec python {} \;
+go test ./...
