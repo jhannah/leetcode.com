@@ -20,4 +20,4 @@ nums = [0, 0, 1, 1, 1, 1, 2, 3, 3]
 assert s.removeDuplicates(nums) == 7
 assert nums[0:7] == [0, 0, 1, 1, 2, 3, 3]
 
-print("Python: success")
+print("PASS", __file__)

@@ -11,4 +11,4 @@ s = Solution()
 assert s.rotateArray(3, [1, 2, 3, 4, 5, 6, 7]) == [5, 6, 7, 1, 2, 3, 4]
 assert s.rotateArray(2, [-1, -100, 3, 99]) == [3, 99, -1, -100]
 
-print("Python: success")
+print("PASS", __file__)
